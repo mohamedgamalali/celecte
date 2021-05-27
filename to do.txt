@@ -1,0 +1,7 @@
+-strype payment - done 'contenue error handdling'
+-pagination 8 || 12 - done
+-user admin page  - done
+-new arrivals grid - done 
+-wish list - done
+-login facebook - done
+01033938889

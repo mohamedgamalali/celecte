@@ -1,0 +1,13 @@
+//409
+1000 ===> out of stock product
+1001 ===> deleted product
+1009 ===> other errors
+//402
+1002 ===> StripeCardError
+1003 ===> StripeRateLimitError
+1004 ===> StripeInvalidRequestError
+1005 ===> StripeAPIError
+1006 ===> StripeConnectionError
+1007 ===> StripeAuthenticationError
+1008 ===> other errors
+1009 ===> other errors
